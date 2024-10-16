@@ -6,7 +6,7 @@ This repository features the front-end replication of the **FileCR.com** website
 
 - Responsive design for various devices
 - Clean and organized code structure
-- Implementation of key design elements from the original website
+- Implementation of key design elements from the original website  
 
 ## Installation
 
